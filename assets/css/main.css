@@ -1,0 +1,28 @@
+.container{
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid blue;
+	padding: 10px;
+}
+
+.menu{
+	background-color: #f545a9;
+	padding: 10px;
+
+}
+.link{
+	padding: 10px;
+	/*border: 2px solid green;*/
+}
+a{
+	border-right: 2px solid white;
+	margin: 0 auto;
+	text-decoration: none;
+	color: white;
+	font-size: bolder;
+	cursor: crosshair;
+}
+a:hover{
+	font-family: 'Anton';
+	font-size: bolder;
+}
